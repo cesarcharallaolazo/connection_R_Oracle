@@ -1,4 +1,4 @@
-[importacion]:images/importacion.PNG
+[importacion]:images/importacion.png
 
 Connection R-Oracle
 ==========================================
